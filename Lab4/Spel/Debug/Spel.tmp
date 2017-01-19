@@ -1,0 +1,73 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>H:\Documents\Atmel Studio\6.2\Spel\Spel\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Debug/Spel.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Spel.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Spel.map</FILE>
+  <FILE>Spel.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <POSX><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>15</LINE></POSX>
+  <POSY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>16</LINE></POSY>
+  <TPOSX><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>17</LINE></TPOSX>
+  <TPOSY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>18</LINE></TPOSY>
+  <LINE><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>19</LINE></LINE>
+  <VMEM><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>20</LINE></VMEM>
+  <SEED><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>21</LINE></SEED>
+  <START><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>46</LINE></START>
+  <MUX><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>79</LINE></MUX>
+  <HW_INIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>257</LINE></HW_INIT>
+  <WARM><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>286</LINE></WARM>
+  <RUN><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>54</LINE></RUN>
+  <JOYSTICK><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>118</LINE></JOYSTICK>
+  <ERASE><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>368</LINE></ERASE>
+  <UPDATE><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>218</LINE></UPDATE>
+  <SHORTWAIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>445</LINE></SHORTWAIT>
+  <NO_HIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>71</LINE></NO_HIT>
+  <BEEP><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>393</LINE></BEEP>
+  <MUX_NOMOD><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>94</LINE></MUX_NOMOD>
+  <LISTEN1><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>135</LINE></LISTEN1>
+  <JOYINCX><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>148</LINE></JOYINCX>
+  <JOYDECX><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>151</LINE></JOYDECX>
+  <JOYREADY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>153</LINE></JOYREADY>
+  <LISTEN2><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>164</LINE></LISTEN2>
+  <JOYINCY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>176</LINE></JOYINCY>
+  <JOYDECY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>181</LINE></JOYDECY>
+  <JOY_LIM><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>184</LINE></JOY_LIM>
+  <LIMITS><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>192</LINE></LIMITS>
+  <POS_LIM><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>203</LINE></POS_LIM>
+  <POS_LESS><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>209</LINE></POS_LESS>
+  <POS_OK><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>211</LINE></POS_OK>
+  <SETPOS><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>231</LINE></SETPOS>
+  <SETBIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>244</LINE></SETBIT>
+  <SETBIT_LOOP><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>246</LINE></SETBIT_LOOP>
+  <SETBIT_END><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>251</LINE></SETBIT_END>
+  <RANDOM><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>327</LINE></RANDOM>
+  <RIN><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>345</LINE></RIN>
+  <RDO><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>357</LINE></RDO>
+  <BSTART><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>397</LINE></BSTART>
+  <SMALLDELAY><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>429</LINE></SMALLDELAY>
+  <BSTART2><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>407</LINE></BSTART2>
+  <BSTART3><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>418</LINE></BSTART3>
+  <SD1><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>433</LINE></SD1>
+  <SD2><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>434</LINE></SD2>
+  <SWA><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>455</LINE></SWA>
+  <ONEMSWAIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>464</LINE></ONEMSWAIT>
+  <DYT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>469</LINE></DYT>
+  <DIT><FILE>H:\Documents\Atmel Studio\6.2\Spel\Spel\Spel.asm</FILE><LINE>470</LINE></DIT>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Debug/Lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2.map</FILE>
+  <FILE>Lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DONE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>17</LINE></DONE>
+  <INIT><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>25</LINE></INIT>
+  <BETWEEN_WORDS><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>159</LINE></BETWEEN_WORDS>
+  <MORSE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>19</LINE></MORSE>
+  <GET_CHAR><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>37</LINE></GET_CHAR>
+  <SEND_CHAR><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>40</LINE></SEND_CHAR>
+  <STRING><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>231</LINE></STRING>
+  <LOOKUP><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>47</LINE></LOOKUP>
+  <BEEPCHAR><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>66</LINE></BEEPCHAR>
+  <DBMORSE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>232</LINE></DBMORSE>
+  <IN_RANGE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>147</LINE></IN_RANGE>
+  <XLOOP><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>55</LINE></XLOOP>
+  <XDONE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>60</LINE></XDONE>
+  <BEEP_SHORT><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>77</LINE></BEEP_SHORT>
+  <BEEP_LONG><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>82</LINE></BEEP_LONG>
+  <BDONE><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>71</LINE></BDONE>
+  <NOBEEP><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>108</LINE></NOBEEP>
+  <BEEP><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>89</LINE></BEEP>
+  <BON><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>92</LINE></BON>
+  <DELAY_FREQ><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>127</LINE></DELAY_FREQ>
+  <BOFF><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>98</LINE></BOFF>
+  <NBON><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>111</LINE></NBON>
+  <NBOFF><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>117</LINE></NBOFF>
+  <FDELAY><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>130</LINE></FDELAY>
+  <DELAY><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>135</LINE></DELAY>
+  <DELAY_1><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>138</LINE></DELAY_1>
+  <DELAY_2><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>140</LINE></DELAY_2>
+  <OUTOFBOUND><FILE>H:\Documents\Atmel Studio\6.2\Lab2\Lab2\Lab2.asm</FILE><LINE>156</LINE></OUTOFBOUND>
+ </LABELS>
+</ASSEMBLER_INFO>

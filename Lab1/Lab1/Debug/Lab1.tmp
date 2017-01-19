@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Debug/Lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1.map</FILE>
+  <FILE>Lab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>74</LINE></INIT>
+  <RESET><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>19</LINE></RESET>
+  <LISTEN><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>21</LINE></LISTEN>
+  <DELAY_2><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>68</LINE></DELAY_2>
+  <FULL_READ><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>33</LINE></FULL_READ>
+  <PRINT><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>83</LINE></PRINT>
+  <DELAY><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>56</LINE></DELAY>
+  <READ><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>45</LINE></READ>
+  <READ_END><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>51</LINE></READ_END>
+  <delayYttreLoop><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>59</LINE></delayYttreLoop>
+  <delayInreLoop><FILE>H:\Documents\Atmel Studio\6.2\Lab1\Lab1\Lab1.asm</FILE><LINE>61</LINE></delayInreLoop>
+ </LABELS>
+</ASSEMBLER_INFO>
